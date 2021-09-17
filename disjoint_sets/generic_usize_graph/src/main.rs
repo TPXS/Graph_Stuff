@@ -1,3 +1,5 @@
+//TODO: add method for deletion
+
 struct DisjointSets {
     parent: Vec<usize>,
 }
